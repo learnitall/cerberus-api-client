@@ -2,6 +2,12 @@
 
 A Python package to scrape OpenShift/Kubernetes cluster failures stored in SQLite database. It can be used with the [Cerberus](https://github.com/openshift-scale/cerberus) tool.
 
+### Installation
+To install the lastest release:
+
+`pip3 install cerberus-api-client`
+
+
 ### Submodules
 
 #### cerberus_api_client.client.custom_query_loopback module
